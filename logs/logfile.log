@@ -1,0 +1,13 @@
+2015-11-27 17:25:04 INFO  MP3PlayerGUI:142 - 123432142345
+2015-11-27 17:25:18 INFO  MP3Player:45 - 5
+2015-11-27 17:25:18 INFO  MP3Player:78 - 8
+2015-11-27 17:25:23 INFO  MP3Player:45 - 5
+2015-11-27 17:25:23 INFO  MP3Player:78 - 8
+2015-11-27 17:28:03 INFO  MP3Player:45 - 5
+2015-11-27 17:28:03 INFO  MP3Player:78 - 
+2015-11-27 17:28:19 INFO  MP3Player:45 - 5
+2015-11-27 17:28:19 INFO  MP3Player:78 - 
+2015-11-27 17:28:55 INFO  MP3Player:45 - 5
+2015-11-27 17:28:55 INFO  MP3Player:78 - Gain control not supported
+2015-11-27 17:29:35 INFO  MP3Player:45 - java.io.IOException: Resetting to invalid mark
+2015-11-27 17:29:35 INFO  MP3Player:78 - Gain control not supported
